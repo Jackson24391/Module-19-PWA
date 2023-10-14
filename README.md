@@ -33,3 +33,7 @@ Installation
 
 To start this app, please clone the code below and then in your terminal enter "npm start dev". Then enter into your localhost:3000 to see the application.
 https://github.com/Jackson24391/Module-19-PWA/edit/main/README.md
+
+Kept getting error with node.modules when i tried starting the app
+![image](https://github.com/Jackson24391/Module-19-PWA/assets/131276854/55e14fcf-0af2-496c-aa04-6896cfceb412)
+
